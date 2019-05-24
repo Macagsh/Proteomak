@@ -1,0 +1,7 @@
+setup.py
+Proteomak/Proteomak.py
+Proteomak/__init__.py
+Proteomak.egg-info/PKG-INFO
+Proteomak.egg-info/SOURCES.txt
+Proteomak.egg-info/dependency_links.txt
+Proteomak.egg-info/top_level.txt
